@@ -9,8 +9,7 @@ public class MergeFiles {
 	
 	/**
 	 * Main method
-	 * @param args[0] for SourceFiles
-	 * @Param args[1] for SourceFiles
+	 * @param args[0], args[1}, args[2]...args[n - 1] for SourceFiles
 	 * @param args[2] for TargetFile
 	 */
 
